@@ -30,7 +30,10 @@
 </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeewanghimire31&show_icons=true&locale=en&layout=compact" alt="jeewanghimire" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeewanghimire31&show_icons=true&locale=en&layout=compact" alt="jeewanghimire" />  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeewanghimire31&" alt="jeewanghimire" />
+</p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeewanghimire31&" alt="jeewanghimire" /></p>
+

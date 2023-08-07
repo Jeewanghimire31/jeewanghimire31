@@ -35,5 +35,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeewanghimire31&" alt="jeewanghimire" />
 </p>
 
+<p>
+   <a href="https://github.com/jeewanghimire31/github-readme-stats"><img alt="Jeewan Ghimire Github Stats" src="https://github-readme-stats.vercel.app/api?username=jeewanghimire31&show_icons=true&count_private=true&hide_border=true&bg_color=fff" /></a>
+</p>
+
 
 

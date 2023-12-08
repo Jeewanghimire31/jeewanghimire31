@@ -5,11 +5,12 @@
 <h3 align="center">Tech Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeewanghimire31&label=Profile%20views&color=0e75b6&style=flat" alt="jeewanghimire" /> </p>
-
+<!--
 <p>
   I was born on December 21, 1998, and began my educational journey at Nava Prabhat English Boarding School, Saljhandi Rupandehi. Throughout my years in school, I always put in my best effort and excelled academically. After completing my 10th grade, I continued my education at Everest Higher Secondary School Butwal, where I chose the science stream for my +2 education. Having a deep passion for computer science and information technology, I decided to pursue a Bachelor of Computer Engineering program. Currently, I am fully engaged in my studies, immersing myself in the fascinating world of technology and acquiring valuable knowledge and skills. I love what I am doing and take immense pride in my hard work and perseverance. I have dedicated myself to my academic pursuits and consistently strive for excellence. Looking back, I am proud of all that I have accomplished so far.
 My strong foundation in academics and my unwavering dedication will pave the way for a bright and fulfilling future. I am excited about the opportunities in computer science and information technology, and I am confident that my passion and hard work will continue to lead me to success.
 </p>
+-->
 
 <!--
 **Jeewanghimire31/jeewanghimire31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
